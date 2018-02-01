@@ -1,0 +1,8 @@
+2018-02-01 22:43:18 : System Starting
+2018-02-01 22:43:29 : System shuting down
+2018-02-01 22:47:21 : System Starting
+2018-02-01 22:47:45 : System shuting down
+2018-02-01 22:49:15 : System Starting
+2018-02-01 22:49:18 : System shuting down
+2018-02-01 22:50:02 : System Starting: 
+2018-02-01 22:50:04 : System shuting down

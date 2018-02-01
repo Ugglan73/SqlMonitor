@@ -1,0 +1,9 @@
+D:\GitHub\SqlMonitor\TheSqlMonitor\TheSqlMonitor\bin\Debug\TheSqlMonitor.exe.config
+D:\GitHub\SqlMonitor\TheSqlMonitor\TheSqlMonitor\bin\Debug\TheSqlMonitor.exe
+D:\GitHub\SqlMonitor\TheSqlMonitor\TheSqlMonitor\bin\Debug\TheSqlMonitor.pdb
+D:\GitHub\SqlMonitor\TheSqlMonitor\TheSqlMonitor\obj\Debug\TheSqlMonitor.csprojResolveAssemblyReference.cache
+D:\GitHub\SqlMonitor\TheSqlMonitor\TheSqlMonitor\obj\Debug\TheSqlMonitor.csproj.CoreCompileInputs.cache
+D:\GitHub\SqlMonitor\TheSqlMonitor\TheSqlMonitor\obj\Debug\TheSqlMonitor.exe
+D:\GitHub\SqlMonitor\TheSqlMonitor\TheSqlMonitor\obj\Debug\TheSqlMonitor.pdb
+D:\GitHub\SqlMonitor\TheSqlMonitor\TheSqlMonitor\obj\Debug\TheSqlMonitor.ProjectInstaller.resources
+D:\GitHub\SqlMonitor\TheSqlMonitor\TheSqlMonitor\obj\Debug\TheSqlMonitor.csproj.GenerateResource.Cache

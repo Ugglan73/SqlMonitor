@@ -5,6 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace TheSqlMonitor
 {
     static class Program
@@ -21,5 +22,7 @@ namespace TheSqlMonitor
             };
             ServiceBase.Run(ServicesToRun);
         }
+
     }
+
 }
